@@ -6,8 +6,8 @@ subtitle: Why you'd want to go on a date with me
 
 Hello everyone. I have the following qualities:
 
-- I lose everything in gamble.
-- Earn money to lose everything in gamble.
+- I lose everything in gambling.
+- Earn money to lose everything in gambling.
 
 What else do you need?
 

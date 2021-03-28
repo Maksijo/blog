@@ -1,1 +1,1 @@
-Check this blog at maksijo.github.io.
+Check this blog at maksijo.github.io

@@ -42,7 +42,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "yuu.amout@gmail.com"
-  facebook: maksim.yuu
+#  facebook: maksim.yuu
 #  github: MaksimYuu
 #  twitter: MaksimYuu
   rss: true

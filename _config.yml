@@ -43,8 +43,8 @@ round-avatar: true
 social-network-links:
   email: "yuu.amout@gmail.com"
   facebook: maksim.yuu
-  github: MaksimYuu
-  twitter: MaksimYuu
+#  github: MaksimYuu
+#  twitter: MaksimYuu
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -58,7 +58,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: outamount
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID

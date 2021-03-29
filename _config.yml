@@ -14,8 +14,7 @@ author: Maksim Golubev
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - DLX CASINO: "http://bit.ly/dlxcasino"
     
 plugins:
   - jekyll-seo-tag

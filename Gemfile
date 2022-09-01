@@ -5,3 +5,5 @@ gem 'jekyll-seo-tag'
 
 gemspec
 
+
+gem "webrick", "~> 1.7"

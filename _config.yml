@@ -1,20 +1,21 @@
 # --- Basic options --- #
 
 # Name of website
-title: yuu.amout TEST
+title: Казино и точка.
 
 # Short description of your site
-description: Crypto gambling and my thoughts
+description: Все о казино, истории казино в России, деятельных людях в этой сфере и их истории.
 
 # Your name to show in the footer
-author: Maksim Golubev
+author: Oddforce
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - DLX CASINO: "http://bit.ly/dlxcasino"
+    - Healthy Gambling: "https://t.me/HealthyGambling"
+    - Casino Scams: "https://t.me/CasinoScams"
     
 plugins:
   - jekyll-seo-tag

@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Oddforce - казино знаток, аффилейт, игрок.
 ---
 
-Hello everyone. I have the following qualities:
+Вем привет, я Oddforce, что я делаю в свободное время:
 
-- I lose everything in gambling.
-- Earn money to lose everything in gambling.
+- Проигрываю деньги в казино.
+- Зарабатываю деньги, чтобы их проиграть.
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Моя история
+
+С 16 лет увлекаюсь казино.

@@ -4,7 +4,7 @@ title: Краткая история казино.
 subtitle: Powered by Oddforce 
 cover-img: /assets/img/chinese-gambling.jpg
 thumbnail-img: /assets/img/punk.png
-share-img: /assets/img/Cryptopunks.png
+share-img: /assets/img/chinese-gambling.jpg
 tags: [books, test]
 ---
 ### Краткая история казино.

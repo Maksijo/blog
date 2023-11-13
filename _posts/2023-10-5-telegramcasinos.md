@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12 лучших телеграм казино.
+title: 3 лучших телеграм казино.
 subtitle: Автор - Oddforce 
 cover-img: /assets/img/tgapps.webp
 thumbnail-img: /assets/img/tgcasinospreview.png

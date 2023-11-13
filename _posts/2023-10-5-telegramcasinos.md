@@ -3,7 +3,7 @@ layout: post
 title: 12 лучших телеграм казино.
 subtitle: Автор - Oddforce 
 cover-img: /assets/img/tgapps.webp
-thumbnail-img: /assets/img/Logo2.jpg
+thumbnail-img: /assets/img/tgcasinospreview.png
 share-img: /assets/img/tgapps.webp
 tags: [телеграм казино, телеграм, казино]
 ---
